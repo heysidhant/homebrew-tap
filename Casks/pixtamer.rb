@@ -5,7 +5,7 @@ cask "pixtamer" do
   url "https://github.com/heysidhant/pixtamer/releases/download/v#{version}/Pixtamer-#{version}.dmg"
   name "Pixtamer"
   desc "Batch image optimiser that makes web-ready JPEG, PNG, WebP and AVIF"
-  homepage "https://github.com/heysidhant/pixtamer"
+  homepage "https://sidhantsinha.com/apps/pixtamer"
 
   livecheck do
     url :url
