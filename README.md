@@ -3,7 +3,9 @@
 Homebrew casks for Mac apps by [Sidhant Sinha](https://github.com/heysidhant).
 
 ```sh
-brew install --cask heysidhant/tap/pixtamer
+brew tap heysidhant/tap
+brew trust heysidhant/tap     # Homebrew asks you to trust third-party taps once
+brew install --cask pixtamer
 ```
 
 | Cask | App |
