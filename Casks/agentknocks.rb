@@ -1,6 +1,6 @@
 cask "agentknocks" do
-  version "1.0.0"
-  sha256 "e9c5c23fa25fae01ab19000a9973ac4e982895b2a3506470e0fc9922f1d61178"
+  version "1.1.0"
+  sha256 "985c8bedf757fbf3a5bd245a1d26d178fc95dcb995fff1d0cfb425ee04bd5d7c"
 
   url "https://downloads.agentknocks.com/AgentKnocks-#{version}.dmg"
   name "AgentKnocks"
